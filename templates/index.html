@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VitaSense</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: url("{{ url_for('static', filename='background_hd.png') }}") no-repeat center center fixed;
+      background-size: cover;
+    }
+
+    /* ✨ Motivational Quote Bar */
+    .quote-bar {
+      background: linear-gradient(to right, #064663);
+      padding: 1rem 2rem;
+      text-align: center;
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: lavender;
+    }
+
+    .overlay {
+      background-color: rgba(201, 207, 207, 0.61);
+      padding: 4rem 1rem 2rem; /* top-right-left-bottom */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: unset; /* removes fixed height */
+    }
+
+    .split-container {
+      display: flex;
+      flex-wrap: wrap;
+      width: 100%;
+      max-width: 1200px;
+      margin: auto;
+      padding: 3rem 1rem;
+      margin-bottom: 0;
+    }
+
+    .left-section, .right-section {
+      flex: 1 1 50%;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .left-section h1 {
+      font-size: 3.2rem;
+      font-weight: bold;
+      color: #064663;
+      white-space: nowrap;
+    }
+
+    .left-section h3 {
+      font-size: 1.1rem;
+      color: #242424ff;
+      margin: 1.3rem 0 2rem;
+      text-align: center;
+    }
+
+    .btn-start {
+      background-color: #064663;
+      border: none;
+      border-radius: 30px;
+      padding: 0.7rem 2.5rem;
+      font-size: 1.1rem;
+      font-weight: 500;
+      color: white;
+      text-decoration: none;
+    }
+
+    .btn-start:hover {
+      background-color: #2f7567ff;
+    }
+
+    .footer-banner {
+      background-color: #212121ff;
+      color: #ccc;
+      padding: 1.3rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .footer-row {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      text-align: left;
+    }
+
+    .footer-col {
+      max-width: 200px;
+    }
+
+    .footer-col a {
+      color: #6089e1ff;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .footer-col a:hover {
+      text-decoration: underline;
+    }
+
+    .footer-col p {
+      margin-top: 0.4rem;
+      color: #ccc;
+      font-size: 0.95rem;
+    }
+
+    @media (max-width: 768px) {
+      .split-container {
+        flex-direction: column;
+      }
+
+      .left-section h1 {
+        white-space: normal;
+        text-align: center;
+      }
+
+      .left-section, .right-section {
+        flex: 1 1 100%;
+        padding: 2rem;
+      }
+
+      .footer-row {
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="quote-bar">
+    “Early detection saves lives. Stay aware. Stay strong.” 
+  </div>
+
+  <div class="overlay">
+    <div class="split-container">
+      <!-- Left Section -->
+      <div class="left-section">
+        <h1>Welcome to VitaSense</h1>
+        <h3>Check symptoms, assess risk & stay informed about cancer</h3>
+        <a href="/select-body" class="btn btn-start">Begin Assessment ➜</a>
+      </div>
+
+      <div class="right-section"></div>
+    </div>
+  </div>
+
+  <footer class="footer-banner">
+    <div class="footer-row">
+      <div class="footer-col">
+        <h5><a href="/cancer-videos">Watch Videos</a></h5>
+        <p>Watch trusted YouTube videos about cancer symptoms & awareness.</p>
+      </div>
+      <div class="footer-col">
+        <h5><a href="/learn-more">Learn More</a></h5>
+        <p>Understand about various cancer types along with key symptoms.</p>
+      </div>
+      <div class="footer-col">
+        <h5><a href="/find-doctors">Find Doctors</a></h5>
+        <p>Search for cancer-specialists/Oncologists in Indian cities near you.</p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Choose Body Area | VitaSense</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: url("{{ url_for('static', filename='backg.png') }}") no-repeat center center fixed;
+      background-size: cover;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .overlay {
+      background-color:rgba(56, 90, 132, 0.5);
+      min-height: 100vh;
+      padding: 3rem 1rem;
+    }
+
+    .title-box {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+
+    .title-box h2 {
+      font-weight: bold;
+      color: #064663;
+      font-size: 2.2rem;
+    }
+
+    .title-box h3 {
+      color: #000000ff;
+      font-size: 1.1rem;
+    }
+
+    .card-option {
+      transition: all 0.3s ease;
+      border-radius: 20px;
+      border: none;
+      background-color: lavender;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      padding: 1.5rem 1rem;
+    }
+
+    .card-option:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    }
+
+    .card-title {
+      color: #064663;
+      font-weight: 600;
+      font-size: 1.2rem;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+      .title-box h2 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="overlay">
+    <div class="container">
+      <div class="title-box">
+        <h2>Where are you experiencing symptoms?</h2>
+        <h3>Select a body area below to begin your assessment.</h3>
+      </div>
+
+      <div class="row row-cols-1 row-cols-md-3 g-4">
+        {% for part in body_parts %}
+          {% if part.id == 'other' %}
+            <div class="col">
+              <a href="/custom-input">
+                <div class="card card-option text-center h-100">
+                  <div class="card-body d-flex justify-content-center align-items-center">
+                    <h5 class="card-title m-0">{{ part.name }}</h5>
+                  </div>
+                </div>
+              </a>
+            </div>
+          {% else %}
+            <div class="col">
+              <a href="/questions/{{ part.id }}">
+                <div class="card card-option text-center h-100">
+                  <div class="card-body d-flex justify-content-center align-items-center">
+                    <h5 class="card-title m-0">{{ part.name }}</h5>
+                  </div>
+                </div>
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
