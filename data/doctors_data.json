@@ -1,0 +1,1997 @@
+[
+  {
+    "name": "Dr. Divesh Goyal",
+    "hospital": "Fortis Escorts Hospital",
+    "city": "Jaipur",
+    "phone": "0141 254 7000",
+    "speciality": ["head & neck", "lungs", "stomach", "liver", "intestine", "kidney", "bladder", "prostate", "breast", "soft tissues", "brain", "skin", "thyroid", "adrenal gland", "bones", "blood", "bone marrow"],
+    "rating": 5,
+    "maps_url": "https://www.google.com/maps/place/Fortis+Escorts+Hospital,+Malviya+Nagar,+Jaipur"
+  },
+  {
+    "name": "Dr. Naresh Kumar Soni",
+    "hospital": "Fortis Escorts Hospital",
+    "city": "Jaipur",
+    "phone": "097994 95275",
+    "speciality": ["breast", "head & neck", "lungs", "stomach", "liver", "intestine", "kidney", "bladder", "prostate", "gynecologic", "bones", "soft tissues", "spleen", "omentum"],
+    "rating": 4.0,
+    "maps_url": "https://www.google.com/maps/place/Fortis+Escorts+Hospital,+Malviya+Nagar,+Jaipur"
+  },
+  {
+    "name": "Dr. Anil Kumar Gupta",
+    "hospital": "Bhagwan Mahaveer Cancer Hospital & Research Centre",
+    "city": "Jaipur",
+    "phone": "91 141 2717777",
+    "speciality": ["oral cavity", "larynx", "maxilla", "breast", "cervix", "uterus", "ovaries", "esophagus", "kidney", "liver", "stomach", "lungs", "thyroid", "bones", "soft tissues", "neuroblastoma", "malignant melanoma"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/9DoEFVm7nvK1d3qH8"
+  },
+  {
+    "name": "Dr. Mukul Goyal",
+    "hospital": "Asian Cancer Research Institute - Apex hospital",
+    "city": "Jaipur",
+    "speciality": ["breast", "ovarian", "lungs", "kidney", "thyroid", "colon", "multiple myeloma", "head & neck", "gastrointestinal", "cervical", "solid tumors"],
+    "phone": "91 9530370043 , 0141 4101111",
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/5rvg86qR2YoKpDSc7"
+  },
+  {
+    "name": "Dr. Deepak Gupta",
+    "hospital": "Cancer Clinic, Tilak Nagar",
+    "city": "Jaipur",
+    "phone": "91 141 2717777",
+    "speciality": ["breast", "lungs", "colon", "esophagus", "stomach", "liver", "pancreas", "kidney", "prostate", "ovarian", "neuroblastoma", "blood", "lymphoma", "multiple myeloma"],
+    "rating": 4.4,
+    "maps_url": "https://www.google.com/maps/place/Tilak+Nagar,+Jaipur"
+  },
+  {
+    "name": "Dr. Umesh Khandelwal",
+    "hospital": "Chirayu Cancer Care Centre",
+    "city": "Jaipur",
+    "phone": "01161263109",
+    "speciality": ["bladder", "rectum", "sarcoma", "prostate", "esophagus", "tongue", "head & neck", "brain", "breast", "lymphoma", "childhood cancers", "colon", "skin", "kidney", "lungs", "pediatric oncology", "Ewing's sarcoma", "anal", "vocal cord", "mesothelioma", "multiple myeloma"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/2e4xbF1Su9h5K6Rv9"
+  },
+  {
+    "name": "Dr. Deepak Kumar Shukla",
+    "hospital": "Manipal Hospital",
+    "city": "Jaipur",
+    "phone": "098965 93699",
+    "speciality": ["head & neck", "lungs", "gastrointestinal", "breast", "bladder", "liver", "pancreas", "ovarian", "adrenal", "blood", "lymphoma", "multiple myeloma"],
+    "rating": 5,
+    "maps_url": "https://maps.app.goo.gl/hEZYNXoTY3MFhT137"
+  },
+  {
+    "name": "Dr. Pinakin Patel",
+    "hospital": "SMS Hospital",
+    "city": "Jaipur",
+    "phone": "9829837874",
+    "speciality": ["breast", "thyroid", "anal", "colon", "prostate", "cervical", "bladder", "lungs", "brain"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/YSyTcUgpqgwxhqDd7"
+  },
+  {
+    "name": "Dr. Ruchir Bhandari",
+    "hospital": "Fortis Escorts Hospital",
+    "city": "Jaipur",
+    "speciality": ["brain", "head & neck", "breast", "lungs", "prostate", "colon", "skin", "gynecologic", "bladder", "pancreas", "liver", "lymphoma"],
+    "rating": 4.7,
+    "phone": "07947131671",
+    "maps_url": "https://www.google.com/maps/place/Fortis+Escorts+Hospital,+Malviya+Nagar,+Jaipur"
+  },
+  {
+    "name": "Dr. Manish Chomal",
+    "hospital": "Medical Director RHL Renova Cancer Centre",
+    "city": "Jaipur",
+    "speciality": ["brain", "head & neck", "breast", "lungs", "prostate", "colon", "gynecologic", "bladder", "CNS", "sarcoma", "blood", "melanoma", "pancreas", "liver", "lymphoma"],
+    "rating": 5,
+    "phone": "087400 34567",
+    "maps_url": "https://maps.app.goo.gl/iMyVj2h8ckNMR8tS8"
+  },
+  {
+    "name": "Dr. Kishalay Baidya",
+    "hospital": "ABV Regional Cancer Centre, Agartala Govt Medical College",
+    "city": "Agartala",
+    "phone": "Hospital front desk",
+    "speciality": ["Lungs", "Breast", "Stomach", "Liver", "Esophagus", "Head & neck", "Cervix", "Gynecological", "Gastrointestinal"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/79yuLrkEHnrxkTs36"
+  },
+  {
+    "name": "Dr. Arindam Bhaumik",
+    "hospital": "Onco-Care, South Jolaibari",
+    "city": "Agartala",
+    "phone": "Clinic appointment line",
+    "speciality": ["Lungs", "Breast", "Colon", "Pain & palliative care"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/g2phynnCeCCH3mPP7"
+  },
+  {
+    "name": "Dr. Sharmistha Roy",
+    "hospital": "Hope & Heal Cancer Hospital & Research Center",
+    "city": "Agartala",
+    "phone": "Clinic appointment line",
+    "speciality": ["Lungs", "Breast", "Brain", "Gynecologic", "Precision radiotherapy", "IMRT", "VMAT", "HDR brachytherapy"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/Eu4yZeD6obandoec7"
+  },
+  {
+    "name": "Dr. K. Siva Sree",
+    "hospital": "IOCI - ILS Hospital (Medical Oncology & Hemato-Oncology Dept)",
+    "city": "Agartala",
+    "phone": "9840263478",
+    "speciality": ["Blood","Skin", "Lungs", "Kidney", "Pancreas", "bladder", "Breast", "Prostate", "Gynaec-oncology", "Cervix", "Immuno-oncology", "Sarcomas"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/RZnTrJmsmmwtnBKC9"
+  },
+  {
+    "name": "Dr. Cindy Lalthanpuii",
+    "hospital": "MSCI, Civil Hospital, Aizawl",
+    "city": "Aizawl",
+    "phone": "8731004964",
+    "speciality": ["Breast", "Cervix", "Lungs", "Brain", "Bladder", "Prostate", "Skin", "Esophagus", "Stomach", "Kidney", "Liver", "Colon", "Pancreas", "Precision radiotherapy", "Brachytherapy", "IMRT", "Radiation Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/3G49tQBxisM2s8aV6"
+  },
+  {
+    "name": "Dr. Lalhlupuii",
+    "hospital": "MSCI, Civil Hospital, Aizawl",
+    "city": "Aizawl",
+    "phone": "9436140491",
+    "speciality": ["Breast", "Lungs", "Brain", "Cervix", "Blood", "Stomach", "Skin", "Radiation Oncology", "Brachytherapy", "3D-CRT", "Palliative Radiation"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/3G49tQBxisM2s8aV6"
+  },
+  {
+    "name": "Dr. K. Lalfakzuala",
+    "hospital": "MSCI, Civil Hospital, Aizawl",
+    "city": "Aizawl",
+    "phone": "9436151971",
+    "speciality": ["Lungs", "Esophagus", "Prostate", "Cervix", "Colon", "Radiation Oncology", "IMRT", "VMAT", "Solid Tumors"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/3G49tQBxisM2s8aV6"
+  },
+  {
+    "name": "Dr. B. Zothankima",
+    "hospital": "MSCI, Civil Hospital, Aizawl",
+    "city": "Aizawl",
+    "phone": "not available",
+    "speciality": ["Breast", "Lungs", "Brain", "Bladder", "Pancreas", "Kidney", "Precision Radiotherapy", "Image-Guided Radiation", "Radiation Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/3G49tQBxisM2s8aV6"
+  },
+  {
+    "name": "Dr. Jacob K Laibu",
+    "hospital": "MSCI, Civil Hospital, Aizawl",
+    "city": "Aizawl",
+    "phone": "8415854570",
+    "speciality": ["Palliative Care", "Supportive Oncology", "End-of-life management", "Pain Relief"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/3G49tQBxisM2s8aV6"
+  },
+  {
+    "name": "Dr. Rajesh Kota",
+    "hospital": "Nagarjuna Cancer Centre, Vijayawada",
+    "city": "Vijayawada (Amaravati region)",
+    "phone": "+91 99634 14242, 0866 2554701 05",
+    "speciality": ["Blood", "Lungs", "Bladder", "Colon", "Breast", "Brain", "Prostate", "Pancreas", "Liver", "Stomach", "Cervix", "Kidney"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/a73xXiARJ1YAXgMf9"
+  },
+  {
+    "hospital": "American Oncology Institute, Vijayawada",
+    "city": "Vijayawada (Amaravati region)",
+    "phone": " 1800 208 2000",
+    "speciality": ["Breast", "Lungs", "Prostate", "Head & Neck", "Solid Tumors"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/qwx9jzJRq2ANwj5z8"
+  },
+  {
+    "hospital": "Manipal Hospitals, Vijayawada",
+    "city": "Vijayawada (Amaravati region)",
+    "phone": "1800 102 4647",
+    "speciality": ["Blood", "Lungs", "Breast", "Prostate", "Liver", "Head & neck", "Colon", "Thyroid", "Skin", "Sarcoma", "Gastrointestinal", "Solid Tumors", "Precision Surgery"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/F24UknsmodpZrTY48"
+  },
+  {
+    "name": "Dr. Sandeep Nayak",
+    "hospital": "MACS Clinic & Kidwai Memorial Institute",
+    "city": "Bengaluru",
+    "phone": "094822 02240",
+    "speciality": ["Breast", "Colon", "Skin", "Head & neck", "Esophagus", "Stomach"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/7KiFrBdetifN6rfG8"
+  },
+  {
+    "name": "Dr. Shiva Kumar Uppala",
+    "hospital": "North Bangalore Hospital, HRBR Layout",
+    "city": "Bengaluru",
+    "phone": "096119 97444",
+    "speciality": ["Blood", "Bone Marrow Transplant", "Hematologic Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/jMKLiUtv9H8JHrqDA"
+  },
+  {
+    "name": "Dr. Sunil Navalgund",
+    "hospital": "South End Speciality Clinics",
+    "city": "Bengaluru",
+    "phone": "096194 02305",
+    "speciality": ["Breast", "Lungs", "Colon", "Skin", "Head & neck", "Solid Tumors"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/Cm1TDdeL5ciZRdM18"
+  },
+  {
+    "name": "Dr. Vishwanath S",
+    "hospital": "Apollo Hospitals, Jayanagar",
+    "city": "Bengaluru",
+    "phone": "080 4696 1837",
+    "speciality": ["Breast", "Lungs", "Colon", "Prostate", "Solid Tumors"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/FgxnKsod2UhFxKUr5"
+  },
+  {
+    "name": "Dr. Mangesh Kamath",
+    "hospital": "Fortis Hospital, Bannerghatta Road",
+    "city": "Bengaluru",
+    "phone": "099005 87736",
+    "speciality": ["Blood", "Bone Marrow Transplant", "Hematologic Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/ZWZtH1eLarXuYB2J8"
+  },
+  {
+    "name": "Dr. Ravi B. Diwakar",
+    "hospital": "Sri Shankara Cancer Hospital & Research Centre",
+    "city": "Bengaluru",
+    "phone": "080-26981116",
+    "speciality": ["Breast", "Lungs", "Colon", "Prostate", "Solid Tumors"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/dFQGUcNYB745yeSr7"
+  },
+  {
+    "name": "Dr. Palaniappan Ramanathan",
+    "hospital": "Apollo Hospitals, Sheshadripuram",
+    "city": "Bengaluru",
+    "phone": "080 4696 1837",
+    "speciality": ["Breast", "Colon", "Head & neck", "Solid Tumors", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/YsMqsCB433Sdd8bc7"
+  },
+  {
+    "name": "Dr. Pandu Dasappa",
+    "hospital": "Fortis Hospital, Bannerghatta Road",
+    "city": "Bengaluru",
+    "phone": "080 6904 9765",
+    "speciality": ["Bladder", "Prostate", "Breast", "Colon", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/ZWZtH1eLarXuYB2J8"
+  },
+  {
+    "name": "Prof. Dr. Somashekhar S P",
+    "hospital": "Aster Whitefield Hospital",
+    "city": "Bengaluru",
+    "phone": "080 43420100",
+    "speciality": ["Breast", "Gynecologic", "Prostate", "Head & neck", "Surgical Oncology", "Robotic Surgery"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/HfAVYP1MKLDTGZjQ7"
+  },
+  {
+    "name": "Dr. Raghunath S K",
+    "hospital": "HCG Comprehensive & Sri Shankara Cancer Hospital",
+    "city": "Bengaluru",
+    "phone": "089044 33435",
+    "speciality": ["Kidney", "Bladder", "Prostate", "Breast", "Cervix", "Skin"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/rCqg2XZVcNqtqa1E8"
+  },
+  {
+    "name": "Dr. Niti Raizada",
+    "hospital": "Fortis Hospital, Richmond Town",
+    "city": "Bengaluru",
+    "phone": "080759 89498",
+    "speciality": ["Bladder", "Pancreas", "Lungs"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/MpiS8faHy5K9wwdz6"
+  },
+  {
+    "name": "Dr. Rajshekhar C Jaka",
+    "hospital": "Manipal Hospital Whitefield",
+    "city": "Bengaluru",
+    "phone": "1800 102 4647",
+    "speciality": ["Pancreas", "Colon", "Lungs"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/LsQhkCXdHhuAWawU7"
+  },
+  {
+    "name": "Dr. C N Patil",
+    "hospital": "Aster Whitefield Hospital",
+    "city": "Bengaluru",
+    "phone": "098454 91138",
+    "speciality": ["Bladder", "Kidney", "Prostate"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/HfAVYP1MKLDTGZjQ7"
+  },
+  {
+    "name": "Dr. Ashwin K R",
+    "hospital": "Aster Whitefield Hospital",
+    "city": "Bengaluru",
+    "phone": "8037298733",
+    "speciality": ["Bladder", "Kidney", "Liver"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/HfAVYP1MKLDTGZjQ7"
+  },
+  {
+    "name": "Dr. Monika Pansari",
+    "hospital": "Manipal Hospitals",
+    "city": "Bengaluru",
+    "phone": "089712 39673",
+    "speciality": ["Kidney", "Bladder", "Prostate"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/VdfmKfsvCrC1KCZY6"
+  },
+  {
+    "name": "Dr. Mathangi J",
+    "hospital": "BGS Gleneagle Global Hospital",
+    "city": "Bengaluru",
+    "phone": "091484 65666",
+    "speciality": ["Brain", "Breast", "Lungs"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/akzSqtmczRN5D5XBA"
+  },
+  {
+    "name": "Dr. Vivek Belathur",
+    "hospital": "Precision Oncology Clinic",
+    "city": "Bengaluru",
+    "phone": "095915 35454",
+    "speciality": ["Kidney", "Bladder", "Blood"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/HsHAa6q55vmxhKcZ8"
+  },
+  {
+    "name": "Dr. Vikram Kekatpure",
+    "hospital": "Aster Hospital, Whitefield",
+    "city": "Bengaluru",
+    "phone": "1800-123-6767",
+    "speciality": ["Breast", "Brain", "Blood", "Head & neck", "Kidney", "Prostate", "Liver"],
+    "rating": 5,
+    "maps_url": "https://maps.app.goo.gl/W8YMpuuEVSDmei139"
+  },
+  {
+    "name": "Dr. Poonam Patil",
+    "hospital": "Manipal Hospital, KR Puram",
+    "city": "Bengaluru",
+    "phone": "1800 102 4647",
+    "speciality": ["Kidney", "Blood", "Breast"],
+    "rating": 3.6,
+    "maps_url": "https://maps.app.goo.gl/jPU4MvhwoDU7vo2J6"
+  },
+  {
+    "name": "Dr. Anoop P",
+    "hospital": "Apollo Hospitals",
+    "city": "Bengaluru",
+    "phone": "080 6904 9765",
+    "speciality": ["Blood", "Bone Marrow Transplant", "Pediatric Hemato-Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/u4rxr4Y14gQCYpMNA"
+  },
+  {
+    "name": "Dr. Sunil Saini",
+    "hospital": "Cancer Research Institute (CRI), SRHU",
+    "city": "Dehradun",
+    "phone": "0135 247 1135",
+    "speciality": ["Head & neck", "Breast", "Esophagus", "Colon", "Stomach", "Liver", "Pancreas"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/XERWFGx3oryb1Uxc6"  
+  },
+  {
+    "name": "Dr. Jamal A. Khan",
+    "hospital": "Denvax Clinic",
+    "city": "Dehradun",
+    "phone": "+91 135 315 5540",
+    "speciality": ["Pancreas", "Liver", "Colon", "Blood", "Immunotherapy"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/f6LRhyU7dxQpyGgf7"
+  },
+  {
+    "name": "Dr. Rakesh Reddy Jillela",
+    "hospital": "Denvax Clinic",
+    "city": "Dehradun",
+    "phone": "+91 135 315 5540",
+    "speciality": ["Skin", "Brain", "Esophagus", "Cervix", "Radiation Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/f6LRhyU7dxQpyGgf7"
+  },
+  {
+    "name": "Dr. Raman Yadav",
+    "hospital": "Denvax Clinic",
+    "city": "Dehradun",
+    "phone": "+91 135 315 5540",
+    "speciality": ["Blood", "Brain", "Supportive Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/f6LRhyU7dxQpyGgf7"
+  },
+  {
+    "name": "Dr. Saurabh Bansal",
+    "hospital": "Kailash Omega Cancer Centre",
+    "city": "Dehradun",
+    "phone": "082796 80040",
+    "speciality": ["Lungs", "Esophagus", "Head & neck", "Brain", "Solid tumors", "Radiation Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/zqzunm2p1BqzuDkP9"
+  },
+  {
+    "name": "Dr. Shashwat Tiwari",
+    "hospital": "Kailash Omega Cancer Centre",
+    "city": "Dehradun",
+    "phone": "082796 80040",
+    "speciality": ["Colon", "Breast", "Stomach", "Liver", "Surgical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/zqzunm2p1BqzuDkP9"
+  },
+  {
+    "name": "Dr. Amit Saklani",
+    "hospital": "Max Super Speciality Hospital",
+    "city": "Dehradun",
+    "phone": "0135 350 0800",
+    "speciality": ["Blood", "Breast", "Cervix", "Uro-Oncology", "Gastrointestinal", "Hematology Oncology", "Targeted therapy"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/oFjwYMtLKQN3P5cz6"
+  },
+  {
+    "name": "Dr. Runu Sharma",
+    "hospital": "Max Super Speciality Hospital",
+    "city": "Dehradun",
+    "phone": "0135 350 0800",
+    "speciality": ["Blood", "Breast", "Cervix", "Pancreas", "Hematology Oncology", "Palliative Care"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/oFjwYMtLKQN3P5cz6"
+  },
+  {
+    "name": "Dr. Vimal Pandita",
+    "hospital": "Arihant Hospitals",
+    "city": "Dehradun",
+    "phone": "+91 135 315 5540",
+    "speciality": ["Lungs", "Liver", "Colon", "Breast", "Blood", "Pancreas", "Targeted therapy", "Immunotherapy"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/eAshGYhveJzGkHr47"
+  },
+  {
+    "name": "Dr. Akash Narain Gaind",
+    "hospital": "Omega Hospital",
+    "city": "Dehradun",
+    "phone": "082796 80040",
+    "speciality": ["Colon", "Gall bladder", "Head & neck", "Breast", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/zqzunm2p1BqzuDkP9"
+  },
+  {
+    "name": "Dr. Manisa Pattanayak",
+    "hospital": "Max Super Speciality Hospital",
+    "city": "Dehradun",
+    "phone": "0135 350 0800",
+    "speciality": ["Breast", "Cervix", "Stomach", "Gastrointestinal Oncology", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/oFjwYMtLKQN3P5cz6"
+  },
+  {
+    "name": "Dr. Pankaj Garg",
+    "hospital": "Shri Mahant Indiresh Hospital",
+    "city": "Dehradun",
+    "phone": "0135 667 2400",
+    "speciality": ["Colon", "Stomach", "Breast", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/iZpAWL1dWAVA33nQ6g"
+  },
+  {
+    "name": "Dr. Parmod Kumar",
+    "hospital": "Max Super Speciality Hospital",
+    "city": "Dehradun",
+    "phone": "0135 350 0800",
+    "speciality": ["Breast", "Blood", "Gastrointestinal", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/oFjwYMtLKQN3P5cz6"
+  },
+  {
+    "name": "Dr. Deepak Garg",
+    "hospital": "Dwarka Clinics - Superspeciality",
+    "city": "Dehradun",
+    "phone": "91 9368453474",
+    "speciality": ["Colon", "Cervix", "Stomach", "Breast"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/iWqWz6iRDqtcdjxf9"
+  },
+  {
+    "name": "Dr. Sunil Kumar",
+    "hospital": "Krishna Cancer Hospital, Sahyog Vihar, Shahpura",
+    "city": "Bhopal",
+    "phone": "+91 755 408 6099",
+    "speciality": ["Blood", "Bone marrow transplant", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/Fzq9g8EWaXdSW4jFA"
+  },
+  {
+    "name": "Dr. Rajendra Kumar Panday",
+    "hospital": "Bansal Hospital, Shahpura Lake",
+    "city": "Bhopal",
+    "phone": "+91 755 408 6099",
+    "speciality": ["Breast", "Liver", "Head & neck", "Gastrointestinal", "Skin", "Pancreas", "Urological", "Gynecological"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/4DmAyL3B5EGG3kex7"
+  },
+  {
+    "name": "Dr. T. P. Sahu",
+    "hospital": "Silver Line Hospital, Motia Talab",
+    "city": "Bhopal",
+    "phone": "098936 86246",
+    "speciality": ["Lungs", "Blood", "Lymphoma", "Kidney", "Stomach", "Breast"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/Bk9QAgHQhTDV6JiWA"
+  },
+  {
+    "name": "Dr. Shyam Agrawal",
+    "hospital": "Navodaya Cancer Hospital, Indrapuri",
+    "city": "Bhopal",
+    "phone": "+91 755 425 1998",
+    "speciality": ["Blood", "Medical Oncology", "Solid Tumors"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/hTry3mVzvFPJ5pwL8"
+  },
+  {
+    "name": "Dr. Praveen Paliwal",
+    "hospital": "Bansal Hospital, Shahpura",
+    "city": "Bhopal",
+    "phone": "+91 755 408 6099",
+    "speciality": ["Medical Oncology", "Blood", "Solid Tumors"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/4DmAyL3B5EGG3kex7"
+  },
+  {
+    "name": "Dr. Abhishek Shrivastava",
+    "hospital": "Vedanta Hospital, New Ashoka Garden",
+    "city": "Bhopal",
+    "phone": "+91 755 470 0502",
+    "speciality": ["Medical Oncology", "Solid Tumors"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/NAARJydZpSBEaCVAA"
+  },
+  {
+    "name": "Dr. Narendra Birbiya",
+    "hospital": "Onco Care, Rishi Puran Bhel, Gwalior",
+    "city": "Bhopal",
+    "phone": "not available",
+    "speciality": ["Radiation Oncology", "Blood", "Solid Tumors"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/ae5M2m31igb1daAu7"
+  },
+  {
+    "name": "Dr. Yogeshwar Shukla",
+    "hospital": "Dr. Yogeshwar Shukla Clinic, Habib Ganj",
+    "city": "Bhopal",
+    "phone": "083492 40699",
+    "speciality": ["Surgical Oncology", "Breast", "Head & neck", "Stomach", "Ovary"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/B4EX42KiE4WBAaSN7"
+  },
+  {
+    "name": "Dr. Atul Kumar Samaiya",
+    "hospital": "Bansal Hospital / Bansal Multispeciality Hospital",
+    "city": "Bhopal",
+    "phone": "+91 755 408 6099",
+    "speciality": ["Brain", "Pancreas", "Breast", "Kidney"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/4DmAyL3B5EGG3kex7"
+  },
+  {
+    "name": "Dr. Rahul Agrawal",
+    "hospital": "Navodaya Cancer Hospital / Siddhanta Rs Hospital",
+    "city": "Bhopal",
+    "phone": "+91 755 425 1998",
+    "speciality": ["Breast", "Surgical Oncology", "Cervix", "Lungs", "Pancreas", "Stomach", "Colon", "Prostate", "Blood", "Esophagus", "Head & neck"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/9hUBouVFf5fhhaHL6"
+  },
+  {
+    "name": "Dr. Prateek Tiwari",
+    "hospital": "Jawaharlal Nehru Cancer Hospital & Research Centre",
+    "city": "Bhopal",
+    "phone": "+91 755 266 5720",
+    "speciality": ["Blood", "Breast", "Cervix", "Colon", "Stomach"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/XgZqw4TVCMeWS9tz6"
+  },
+  {
+    "name": "Dr. Deepak Kumar Bhojwani",
+    "hospital": "Jawaharlal Nehru Cancer Hospital & Research Centre",
+    "city": "Bhopal",
+    "phone": "+91 755 266 5720",
+    "speciality": ["Surgical Oncology", "Blood", "Solid Tumors", "Breast"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/XgZqw4TVCMeWS9tz6"
+  },
+  {
+    "name": "Dr. Neelu Mehrotra",
+    "hospital": "Private Clinic, Bengali Colony / Arera Colony",
+    "city": "Bhopal",
+    "phone": "91 755 428 8497",
+    "speciality": ["Breast", "Pancreas", "Kidney", "Uterus (Cervix)", "Head & neck"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/a6TiBoSxhoZjNHxn8"
+  },
+  {
+    "name": "Dr. Dipika Mohanty",
+    "hospital": "Apollo Hospitals",
+    "city": "Bhubaneswar",
+    "phone": "080 6297 0570",
+    "speciality": ["Breast", "Blood", "Gastrointestinal", "Solid Tumors", "Medical Oncology", "Cancer Diagnostics"],
+    "rating": 5,
+    "maps_url": "https://maps.app.goo.gl/itrASmAMhvvUf23y7"
+  },
+  {
+    "name": "Dr. Prasant Kumar Parida",
+    "hospital": "Apollo Hospitals",
+    "city": "Bhubaneswar",
+    "phone": "079786 30298",
+    "speciality": ["Breast", "Liver", "Stomach", "Prostate", "Blood", "Gastrointestinal"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/itrASmAMhvvUf23y7"
+  },
+  {
+    "name": "Dr. Sthiti Das",
+    "hospital": "Apollo Hospitals",
+    "city": "Bhubaneswar",
+    "phone": "91 674 6661016 / 91 8069991061",
+    "speciality": ["Lungs", "Brain", "Skin", "Precision Radiation", "External Beam Therapy"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/itrASmAMhvvUf23y7"
+  },
+  {
+    "name": "Dr. Ganesh Chandra Subudhi",
+    "hospital": "Apollo Hospitals",
+    "city": "Bhubaneswar",
+    "phone": "91 674 48964515, 1800 203 1066",
+    "speciality": ["Breast", "Blood", "Prostate", "Colon", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/itrASmAMhvvUf23y7"
+  },
+  {
+    "name": "Dr. Sunil Jaiswal",
+    "hospital": "Apollo Hospitals",
+    "city": "Bhubaneswar",
+    "phone": "080 6274 7527",
+    "speciality": ["Surgical Oncology", "Breast", "Colon", "Cervix", "Head & neck"],
+    "rating": 5,
+    "maps_url": "https://maps.app.goo.gl/itrASmAMhvvUf23y7"
+  },
+  {
+    "name": "Dr. Deepak Kumar Das",
+    "hospital": "Utkal Hospital",
+    "city": "Bhubaneswar",
+    "phone": "+91 90901 11144",
+    "speciality": ["Blood", "Breast", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/eNdsQQq9Dr22QTW68"
+  },
+  {
+    "name": "Dr. Ghanashyam Biswas",
+    "hospital": "American Oncology Institute",
+    "city": "Bhubaneswar",
+    "phone": "91 674 6173366, 91 99375 37319",
+    "speciality": ["Pancreas", "Prostate", "Colon", "Blood", "Lungs", "Targeted Therapy"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/YhLJRV1iknwV9VXz6"
+  },
+  {
+    "name": "Dr. Chinmaya Kumar Pani",
+    "hospital": "Manipal Hospital",
+    "city": "Bhubaneswar",
+    "phone": "093374 93739",
+    "speciality": ["Blood", "Cervix", "Pediatric Oncology", "Breast", "Kidney"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/PCjChEcQDQFkYs1C8"
+  },
+  {
+    "name": "Dr. Susanta Kumar Paikaray",
+    "hospital": "Utkal Hospital",
+    "city": "Bhubaneswar",
+    "phone": "91 90901 11144",
+    "speciality": ["Blood", "Breast", "Solid Tumors"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/eNdsQQq9Dr22QTW68"
+  },
+  {
+    "name": "Dr. Sanjaya Mishra",
+    "hospital": "Utkal Hospital",
+    "city": "Bhubaneswar",
+    "phone": "+91 90901 11444 (hospital helpline), +91 90199 60007 (director's direct/WhatsApp)",
+    "speciality": ["Lungs", "Brain", "Radiation Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/eNdsQQq9Dr22QTW68"
+  },
+  {
+    "name": "Dr. Gautam Goyal",
+    "hospital": "Max Super Speciality Hospital, Mohali",
+    "city": "Chandigarh",
+    "phone": "0172-5091234",
+    "speciality": ["Breast", "Lungs", "Stomach", "Colon", "Gall Bladder", "Prostate", "Blood", "Immunotherapy", "Targeted Therapy"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/Y8UsZnzKCAzW8NXb9"
+  },
+  {
+    "name": "n Kr.Dr. Chanda Das",
+    "hospital": "PGIMER, Chandigarh (Medical Oncology)",
+    "city": "Chandigarh",
+    "phone": "0172-2756565",
+    "speciality": ["Blood", "Breast", "Cervix", "Colon", "Stomach", "Esophagus"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/NYDiQut3qa7qmi1X7"
+  },
+  {
+    "name": "Dr. Gaurav Prakash",
+    "hospital": "PGIMER, Chandigarh (Medical Oncology)",
+    "city": "Chandigarh",
+    "phone": "8512830995",
+    "speciality": ["Blood", "Breast", "Lungs", "GI", "Lymphoma"],
+    "rating": 4.2,
+    "maps_url": "https://maps.app.goo.gl/egzDKLos7o1zkzTB8"
+  },
+  {
+    "name": "Dr. Pankaj Malhotra",
+    "hospital": "PGIMER, Chandigarh (Clinical Hemato-Oncology Head)",
+    "city": "Chandigarh",
+    "phone": "7087009680",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Stem Cell Transplant"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/G62JKvtRA4LFHKJ36"
+  },
+  {
+    "name": "Dr. Rajat Gupta",
+    "hospital": "Bone Cancer Clinic / Fortis / Max Mohali",
+    "city": "Chandigarh",
+    "phone": "099303 72264",
+    "speciality": ["Bone", "Soft Tissue Sarcoma", "Lung", "Head & neck"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/kLgYstcSjDKTijTD6"
+  },
+  {
+    "name": "Dr. Heena Chawla",
+    "hospital": "Apollo Clinic, Sector 9C",
+    "city": "Chandigarh",
+    "phone": "1860-500-1066",
+    "speciality": ["Cervix", "Ovarian", "Gynecologic Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/EefdKE2cS7Phu3929"
+  },
+  {
+    "name": "Dr. Ashwani Kumar Sachdeva",
+    "hospital": "Indus / Fortis, Sector 56, Mohali",
+    "city": "Chandigarh",
+    "phone": "062602 52120",
+    "speciality": ["Peritoneal surface malignancies", "Colon", "Ovarian", "HIPEC", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/R9ZFgjhRBZ7S2RVn9"
+  },
+  {
+    "name": "Dr. Sachin Gupta",
+    "hospital": "Max Super Speciality Hospital, Mohali",
+    "city": "Chandigarh",
+    "phone": "07973934490",
+    "speciality": ["Breast", "Lungs", "Colon", "Blood", "Precision Medicine", "Targeted Therapy"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/yXzjgH3RMkSzd2M1A"
+  },
+  {
+    "name": "Dr. Kanika Sharma",
+    "hospital": "Max Super Speciality Hospital, Mohali",
+    "city": "Chandigarh",
+    "phone": "092688 80303",
+    "speciality": ["Breast", "Blood", "GI", "Targeted Therapy", "Immunotherapy"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/yXzjgH3RMkSzd2M1A"
+  },
+  {
+    "name": "Dr. Priya Diwvedi",
+    "hospital": "Unspecified (Radiation Oncology)",
+    "city": "Chandigarh",
+    "phone": "094545 45339",
+    "speciality": ["Breast", "Lungs", "Prostate", "Head & neck", "Precision Radiotherapy"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/hE8WrwTsXFpZiLxa7"
+  },
+  {
+    "name": "Prof. Dr. S. Subramanian",
+    "hospital": "VS Hospitals, Kilpauk",
+    "city": "Chennai",
+    "phone": "+91 44 2658 9000",
+    "speciality": ["Breast", "Blood", "Gastrointestinal", "Prostate"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/qQf2Y8e78FTFwHuo8"
+  },
+  {
+    "name": "Dr. S. Nithya",
+    "hospital": "VS Hospitals, Kilpauk",
+    "city": "Chennai",
+    "phone": "+91 44 2658 9000",
+    "speciality": ["Breast", "Blood", "Pediatric Oncology", "Targeted Therapy"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/qQf2Y8e78FTFwHuo8"
+  },
+  {
+    "name": "Prof. Dr. D. Suresh Kumar",
+    "hospital": "VS Hospitals, Kilpauk",
+    "city": "Chennai",
+    "phone": "+91 44 2658 9000",
+    "speciality": ["Breast", "Cervix", "Head & neck", "Esophagus", "Colon", "Skin", "Prostate"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/qQf2Y8e78FTFwHuo8"
+  },
+  {
+    "name": "Dr. S. Usha",
+    "hospital": "VS Hospitals, Kilpauk",
+    "city": "Chennai",
+    "phone": "+91 44 2658 9000",
+    "speciality": ["Lungs", "Skin", "Bladder", "Cervix", "Radiation Oncology", "Brachytherapy"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/qQf2Y8e78FTFwHuo8"
+  },
+  {
+    "name": "Dr. Saravanan Periasamy",
+    "hospital": "VS Hospitals / SIMS Hospital",
+    "city": "Chennai",
+    "phone": "+91 44 2658 9000",
+    "speciality": ["Breast", "Head & neck", "Esophagus", "Colon", "Skin", "Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/qQf2Y8e78FTFwHuo8"
+  },
+  {
+    "name": "Dr. Rejiv Rajendranath",
+    "hospital": "Apollo Cancer Centre",
+    "city": "Chennai",
+    "phone": "+91 44 2829 3333",
+    "speciality": ["Prostate", "Head & neck", "Targeted Therapy", "Blood", "Lungs"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/Nw42Xm4Byw98LpaP7"
+  },
+  {
+    "name": "Dr. Kannan S",
+    "hospital": "Apollo Cancer Centre",
+    "city": "Chennai",
+    "phone": "+91 44 2829 3333",
+    "speciality": ["Breast", "Colon", "Kidney", "Esophagus", "Liver", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/Nw42Xm4Byw98LpaP7"
+  },
+  {
+    "name": "Dr. Prahlad Yathiraj",
+    "hospital": "MGM Cancer Institute",
+    "city": "Chennai",
+    "phone": "+91 44 2378 7141",
+    "speciality": ["Lungs", "Brain", "Bladder", "Radiation Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/FPKfZgUDgYHiNxx38"
+  },
+  {
+    "name": "Dr. Manikandan Venkatasubramaniyan",
+    "hospital": "MGM Cancer Institute",
+    "city": "Chennai",
+    "phone": "+91 44 2378 7141",
+    "speciality": ["Breast", "Esophagus", "Colon", "Skin", "Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/FPKfZgUDgYHiNxx38"
+  },
+  {
+    "name": "Dr. (Prof.) Bellarmine Vincent Lawrence",
+    "hospital": "Adyar Cancer Institute",
+    "city": "Chennai",
+    "phone": "+91 44 2491 1835",
+    "speciality": ["Blood", "Bone Marrow Transplant", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/sq5SfKBiXAcYuvk49"
+  },
+  {
+    "name": "Dr. Hemish Kania",
+    "hospital": "Nirali Hospital, Navsari",
+    "city": "Daman",
+    "phone": "02637-660000",
+    "speciality": ["Breast", "Head & neck", "Colon", "Esophagus", "Stomach", "Lungs", "Gall bladder", "Pancreas", "Liver", "Kidney", "Bladder", "Prostate"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/UaBYbT9QiPQT35RV7"
+  },
+  {
+    "name": "Dr. Kaushal B. Patel",
+    "hospital": "Nirali Hospital, Navsari",
+    "city": "Daman",
+    "phone": "02637-660000",
+    "speciality": ["Breast", "Blood", "Lymphoma", "Leukemia", "Targeted Therapy", "Immunotherapy"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/uzjZ4QdEeAiaLprH9"
+  },
+  {
+    "name": "Dr. Sandeep Ishi",
+    "hospital": "21st Century Cancer Care (Vapi)",
+    "city": "Daman",
+    "phone": "+91 91739-93536",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Multiple Myeloma", "Medical Oncology"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/CZssPpWvFry4Yiyq5"
+  },
+  {
+    "name": "Dr. Akshay Nadkarni",
+    "hospital": "21st Century Cancer Care (Vapi)",
+    "city": "Daman",
+    "phone": "+91 99604-89706",
+    "speciality": ["Surgical Oncology", "Breast", "Head & neck", "Colon", "Stomach", "Pancreas", "Liver"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/CZssPpWvFry4Yiyq5"
+  },
+  {
+    "name": "Dr. Khurram Sharif",
+    "hospital": "21st Century Cancer Care (Vapi)",
+    "city": "Daman",
+    "phone": "+91 99604-89706",
+    "speciality": ["Radiation Oncology", "Prostate", "Bladder", "Lungs", "Cervix", "Targeted Radiation"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/CZssPpWvFry4Yiyq5"
+  },
+  {
+    "name": "Dr. Ramesh Sarin",
+    "hospital": "Indraprastha Apollo Hospitals (Cancer Institute)",
+    "city": "New Delhi",
+    "phone": "+91 11 46561000",
+    "speciality": ["Breast", "Colon", "Stomach", "Head & neck", "Prostate", "Kidney"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/D3Q1EpYj4oFQCCMm6"
+  },
+  {
+    "name": "Dr. Praveen K. Garg",
+    "hospital": "Indraprastha Apollo Hospitals (Cancer Institute)",
+    "city": "New Delhi",
+    "phone": "+91 11 46561000",
+    "speciality": ["Breast", "Cervix", "Colon", "Prostate", "Surgical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/gSg8EjPSa1zx9VuQ9"
+  },
+  {
+    "name": "Dr. Dipanjan Panda",
+    "hospital": "Indraprastha Apollo Hospitals (Cancer Institute)",
+    "city": "New Delhi",
+    "phone": "+91 11 46561000",
+    "speciality": ["Blood", "Lymphoma", "Leukemia", "Medical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/eqL2YT6gwUb8sbFu6"
+  },
+  {
+    "name": "Dr. Devashish Tripathi",
+    "hospital": "Indraprastha Apollo Hospitals (Cancer Institute)",
+    "city": "New Delhi",
+    "phone": "+91 11 46561000",
+    "speciality": ["Lungs", "Brain", "Skin", "Radiation Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/XJRLzc8pc4Xv5zPo8"
+  },
+  {
+    "name": "Dr. Kapil Goyal",
+    "hospital": "Rajiv Gandhi Cancer Institute & Research Centre (RGCIRC)",
+    "city": "Rohini, New Delhi",
+    "phone": "+91 11 47022222",
+    "speciality": ["Blood", "Multiple Myeloma", "Stem Cell Transplant", "Hematology Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/cZNomM7SGWL5qBy86"
+  },
+  {
+    "name": "Dr. Sudhir Kumar Rawal",
+    "hospital": "Rajiv Gandhi Cancer Institute & Research Centre (RGCIRC)",
+    "city": "Rohini, New Delhi",
+    "phone": "+91 11 47022222",
+    "speciality": ["Prostate", "Bladder", "Kidney", "Uro-Oncology", "Robotic Surgery"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/dbLiC6yQS8SYJNDz7"
+  },
+  {
+    "name": "Dr. D. C. Doval",
+    "hospital": "RGCIRC, Rohini",
+    "city": "New Delhi",
+    "phone": "+91 11 47022222",
+    "speciality": ["Breast", "Liver", "Esophagus", "Stomach", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/MxyjuMgrraN4SL3t8"
+  },
+  {
+    "name": "Dr. Munish Gairola",
+    "hospital": "RGCIRC, Rohini",
+    "city": "New Delhi",
+    "phone": "+91 11 47022222",
+    "speciality": ["Lungs", "Brain", "Head & neck", "Radiation Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/MxyjuMgrraN4SL3t8"
+  },
+  {
+    "name": "Dr. Harit Chaturvedi",
+    "hospital": "Max Super Speciality Hospital, Saket",
+    "city": "New Delhi",
+    "phone": "+91 11 26451100",
+    "speciality": ["Breast", "Ovarian", "Cervix", "Targeted Therapy", "Medical Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/7sZNnHGwYp8pKQXM8"
+  },
+  {
+    "name": "Dr. Meenu Walia",
+    "hospital": "Max Super Speciality Hospital, Saket",
+    "city": "New Delhi",
+    "phone": "+91 11 26451100",
+    "speciality": ["Blood", "Breast", "Head & neck", "Solid Tumors"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/7sZNnHGwYp8pKQXM8"
+  },
+  {
+    "name": "Dr. Anupam Mahanta",
+    "hospital": "Apollo Clinic / Medicity / Health City Hospital",
+    "city": "Dispur",
+    "phone": "76648-12001",
+    "speciality": ["Breast", "Colon", "Stomach", "Pancreas", "Liver", "Prostate", "Targeted Therapy", "Immunotherapy", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/BjExyxMYzAtHam3i7"
+  },
+  {
+    "name": "Dr. Nupur Bansal",
+    "hospital": "DocGenie-collated panel",
+    "city": "New Delhi",
+    "phone": "+91 9818093267",
+    "speciality": ["Radiation Oncology", "Blood", "Breast", "Cervix", "Targeted Therapy"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/eGKC65oEq3oGfvLW8"
+  },
+  {
+    "name": "Dr. Umesh Das",
+    "hospital": "Medicity Guwahati",
+    "city": "Dispur",
+    "phone": "084864 83479",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Neuro Oncology", "Uro-Oncology", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/29NcPW7hx5JAWVYx6"
+  },
+  {
+    "name": "Dr. Utpal Ranjan Das",
+    "hospital": "Dispur Polyclinic & Hospital, Ganeshguri",
+    "city": "Dispur",
+    "phone": "088226 69275",
+    "speciality": ["Breast", "Colon", "Head & Neck", "Skin", "Radiation Therapy", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/EcMRQbf2CptUNW8s6"
+  },
+  {
+    "name": "Dr. Niju Pegu",
+    "hospital": "Apollo Clinic, Khanapara",
+    "city": "Dispur",
+    "phone": "076638 12002",
+    "speciality": ["Breast", "Head & Neck", "Cervix", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/LD9jVqrhbHYB2gGi6"
+  },
+  {
+    "name": "Dr. Siddhartha Hazarika",
+    "hospital": "Nemcare Hospital, Bhangagarh",
+    "city": "Dispur",
+    "phone": "088222 01201",
+    "speciality": ["Head & Neck", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/x8Ws1scqfgXti5R89"
+  },
+  {
+    "name": "Dr. Jadunath Buragohain",
+    "hospital": "Nemcare Hospital, Bhangagarh",
+    "city": "Dispur",
+    "phone": "088222 01201",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Bone Marrow Transplant", "Medical Oncology"],
+    "rating": 3.4,
+    "maps_url": "https://maps.app.goo.gl/x8Ws1scqfgXti5R89"
+  },
+  {
+    "name": "Dr. Nilesh Ranjan",
+    "hospital": "Health City Hospital, Khanapara",
+    "city": "Dispur",
+    "phone": "0361 352 1600",
+    "speciality": ["Lungs", "Brain", "Radiation Oncology"],
+    "rating": 3.3,
+    "maps_url": "https://maps.app.goo.gl/eKtmL4BHzTZemAgo6"
+  },
+  {
+    "name": "Dr. P. K. Gogoi",
+  "hospital": "East India Haematological (Blood) Centre, Bhangagarh",
+  "city": "Dispur",
+  "phone": "+91 361 2131045, +91 361 2526148",
+  "speciality": ["Blood", "Medical Oncology", "Leukemia", "Lymphoma"],
+  "rating": 4.3,
+  "maps_url": "https://maps.app.goo.gl/hzx6XFyFjzX3dYkd6"
+ },
+  {
+    "name": "Dr. Abhijit Phukan",
+    "hospital": "Excelcare Hospital, Boragaon, Guwahati",
+    "city": "Dispur",
+    "phone": "95084-25812",
+    "speciality": ["Blood", "Hematology Oncology", "Medical Oncology"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/xoVNiJWohpQWg5u66"
+  },
+  {
+    "name": "Dr. B. B. Borooah Cancer Institute Dept",
+    "hospital": "Dr. B. Borooah Cancer Institute (Tata-affiliated), Guwahati",
+    "city": "Dispur",
+    "phone": "099570 33199",
+    "speciality": ["All Solid Tumors", "Medical & Radiation Oncology", "Surgical Oncology", "Preventive Oncology"],
+    "rating": 3.0,
+    "maps_url": "https://maps.app.goo.gl/s13y6q177PJwk5f7A"
+  },
+  {
+    "name": "Dr. Tshering Doma Bhutia",
+    "hospital": "STNM Hospital (Sir Thutob Namgyal Mem. Hospital)",
+    "city": "Gangtok",
+    "phone": "09845562399",
+    "speciality": ["Breast", "Colon", "Stomach", "Esophagus", "Head & Neck", "Surgical Oncology"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/Q8ayLYCJWZ78EDtX6"
+  },
+  {
+    "name": "Dr. Sonam Bhutia",
+    "hospital": "STNM Hospital",
+    "city": "Gangtok",
+    "phone": "09845562399",
+    "speciality": ["Lungs", "Brain", "Skin", "Radiation Oncology"],
+    "rating": 3.6,
+    "maps_url": "https://maps.app.goo.gl/nHFk8jJ8ihuTrFQB9"
+  },
+  {
+    "name": "Dr. S. S. Sharma",
+    "hospital": "STNM Hospital",
+    "city": "Gangtok",
+    "phone": "09845562399",
+    "speciality": ["Blood", "Breast", "Colon", "Medical Oncology", "Surgical Oncology"],
+    "rating": 3.6,
+    "maps_url": "https://maps.app.goo.gl/nHFk8jJ8ihuTrFQB9"
+  },
+  {
+    "name": "Dr. Tenzin Namgyal",
+    "hospital": "Hope & Heal Cancer Hospital & Research Center",
+    "city": "Gangtok",
+    "phone": "+91 86177 87387 | 62890 91925",
+    "speciality": ["Breast", "Colon", "Stomach", "Prostate", "Medical Oncology", "Surgical Oncology"],
+    "rating": 3.5,
+    "maps_url": "https://maps.app.goo.gl/fT7QE3XbH877Zenz5"
+  },
+  {
+    "name": "Dr. Anirban Das",
+    "hospital": "Hope & Heal Cancer Hospital & Research Center",
+    "city": "Gangtok",
+    "phone": "+91 86177 87387 | +91 62890 91925",
+    "speciality": ["Blood", "Prostate", "Pancreas", "Medical Oncology", "Surgical Oncology"],
+    "rating": 3.5,
+    "maps_url": "https://maps.app.goo.gl/fT7QE3XbH877Zenz5"
+  },
+  {
+    "name": "Dr. Chirag A. Shah",
+    "hospital": "Apollo CBCC Cancer Care, (affiliated with Apollo Ahmedabad)",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Blood", "Lymphoma", "Leukemia", "Stem Cell Transplant", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/WXb5im23PBU64Cim6"
+  },
+  {
+    "name": "Dr. Akash Shah",
+    "hospital": "Apollo CBCC Cancer Care / Apollo Hospitals, Ahmedabad",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Breast", "Colon", "Stomach", "Pancreas", "Prostate", "Medical Oncology", "Esophagus"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/vJHheMPSCWa4186g6"
+  },
+  {
+    "name": "Dr. Rushit S. Shah",
+    "hospital": "Apollo CBCC Cancer Care, Ahmedabad",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Breast", "Blood", "GI oncology", "Medical Oncology", "kidney"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/kDbpZGKoX3jgumAd7"
+  },
+  {
+    "name": "Dr. Anagha Santosh Zope",
+    "hospital": "Apollo CBCC Cancer Care, Ahmedabad",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Breast", "Gynecologic Oncology", "Surgical Oncology", "Cervix"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/kDbpZGKoX3jgumAd7"
+  },
+  {
+    "name": "Dr. Jay Prakash Neema",
+    "hospital": "Apollo CBCC Cancer Care",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Lungs", "Brain", "Skin", "Radiation Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/FmKEbiPuRBmgRW1S8"
+  },
+  {
+    "name": "Dr. Chirag Amin",
+    "hospital": "Apollo CBCC Cancer Care",
+    "city": "Gandhinagar",
+    "phone": "+91 79 2657 1234",
+    "speciality": ["Lungs", "Bladder", "Precision Radiation", "Radiation Oncology", "Liver"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/FmKEbiPuRBmgRW1S8"
+  },
+  {
+    "name": "Dr. P. Vijay Anand Reddy",
+    "hospital": "Apollo Cancer Hospital - Jubilee Hills, Hyderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2360 2360 (Apollo Jubilee Hills switchboard)",
+    "speciality": ["Brain", "Head & Neck", "Breast", "Lungs", "Radiation Oncology", "Medical Oncology", "Prostate", "Pancreas"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/GQBdWRhpbFnWjKVM6"
+  },
+  {
+    "name": "Dr. Srinivas Chakravarthy Gummaraju",
+    "hospital": "Apollo Healthcity, Jubilee Hills, Hyderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2360 2360",
+    "speciality": ["Blood", "Breast", "Colon", "Leukemia", "Lymphoma", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/aEZYbCxdxY4v65dz6"
+  },
+  {
+    "name": "Dr. Naidu N. Bethune",
+    "hospital": "Yashoda Hospitals - Hitec City, Secunderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2348 5555",
+    "speciality": ["Breast", "Lungs", "Gastrointestinal", "Head & Neck", "Blood", "Medical Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/Ude6dgh2YR1fTRMbA"
+  },
+  {
+    "name": "Dr. Bharat A. Vaswani",
+    "hospital": "Yashoda Hospitals - Secunderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2348 5555",
+    "speciality": ["Blood", "Lungs", "Hemato-Oncology", "Leukemia", "Lymphoma", "Targeted Therapy"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/zhouR7S3PBDRCkHA9"
+  },
+  {
+    "name": "Dr. Shikhar Kumar",
+    "hospital": "Yashoda Hospitals - Hitec City",
+    "city": "Hyderabad",
+    "phone": "+91 40 2348 5555",
+    "speciality": ["Breast", "Colon", "Stomach", "Pancreas", "Prostate", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/Ude6dgh2YR1fTRMbA"
+  },
+  {
+    "name": "Dr. Sudha Sinha",
+    "hospital": "Yashoda Hospitals - Somajiguda",
+    "city": "Hyderabad",
+    "phone": "+91 40 6638 6638",
+    "speciality": ["Breast", "Cervix", "Blood", "Leukemia", "Medical & Hemato-Oncology", "Targeted Therapy"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/4b4jPrCBHvJb8dGw7"
+  },
+  {
+    "name": "Dr. Sumanth Kumar Mallupattu",
+    "hospital": "Yashoda Hospitals - Secunderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2348 5555",
+    "speciality": ["Breast", "Colon", "Stomach", "Esophagus", "Lungs", "Pancreas", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/zhouR7S3PBDRCkHA9"
+  },
+  {
+    "name": "Dr. Anil Kumar Aribandi",
+    "hospital": "American Oncology Institute, Nallagandla, Hyderabad",
+    "city": "Hyderabad",
+    "phone": "+91 40 2300 5800",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Medical Oncology"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/xbhev23nzLSGpu7R8"
+  },
+  {
+    "name": "Dr. Mirza Athar Ali",
+    "hospital": "Medicover Cancer Institute, Hitech City",
+    "city": "Hyderabad",
+    "phone": "040 6833 4455",
+    "speciality": ["Breast", "Colon", "Stomach", "Pancreas", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/y6sh4aiXZRiak3tH7"
+  },
+  {
+    "name": "Dr. Muddusetty Muralidhar",
+    "hospital": "Omega Cancer Hospitals, Gachibowli",
+    "city": "Hyderabad",
+    "phone": "+91 85128 30995 (Helpline via HexaHealth), +91 40 2555 2555 (Omega Colony Gachibowli switchboard)",
+    "speciality": ["Breast", "Stomach", "Colon", "Lungs", "Surgical & Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/ZdojBakLSGt9VK3KA"
+  },
+  {
+    "name": "Dr. T. H. Tomcha Singh",
+    "hospital": "American Oncology Institute (AOI), Babina Specialty Hospital",
+    "city": "Imphal",
+    "phone": "+91 95133 84788 (AOI helpline)",
+    "speciality": ["Radiation Oncology", "Breast", "Lungs", "Brain", "Cervix", "Skin"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/zWhjM1Fn9N41xApAA"
+  },
+  {
+    "name": "Dr. Shibashish Bhattacharya",
+    "hospital": "American Oncology Institute",
+    "city": "Imphal",
+    "phone": "+91 95133 84788",
+    "speciality": ["Medical Oncology", "Blood", "Breast", "Colon", "Stomach", "Prostate", "Pancreas", "Leukemia", "Lymphoma"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/zaJm17bnGugHcKq86"
+  },
+  {
+    "name": "Dr. Dhanabir Thangjam",
+    "hospital": "American Oncology Institute",
+    "city": "Imphal",
+    "phone": "+91 95133 84788",
+    "speciality": ["Surgical Oncology", "Breast", "Colon", "Stomach", "Head & Neck", "Prostate"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/zaJm17bnGugHcKq86"
+  },
+  {
+    "name": "Dr. Naorem Dhaneshwor Singh",
+    "hospital": "American Oncology Institute",
+    "city": "Imphal",
+    "phone": "+91 95133 84788",
+    "speciality": ["Surgical Oncology", "Head & Neck", "Esophagus", "Stomach"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/zaJm17bnGugHcKq86"
+  },
+  {
+    "name": "Dr. Ngnagbam Sonamani",
+    "hospital": "American Oncology Institute",
+    "city": "Imphal",
+    "phone": "+91 95133 84788",
+    "speciality": ["Pediatric Hemato-Oncology", "Blood", "Bone marrow transplant"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/zaJm17bnGugHcKq86"
+  },
+  {
+    "name": "Dr. Deepak Abrol",
+    "hospital": "American Oncology Institute (AOI)",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Lungs", "Breast", "Colon", "Stomach", "Head & Neck", "Cervical", "Radiation Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Jagmohan Singh",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Lungs", "Brain", "Skin", "Esophagus", "Radiation Oncology", "Precision Therapy"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Sumit Pandita",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Lungs", "Brain", "Head & Neck", "Precision Radiation", "IMRT/SBRT", "Radiation Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Satyanker Gupta",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Blood", "Breast", "Colon", "Stomach", "Leukemia", "Lymphoma", "Medical Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Nadeem Shoket",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Blood", "Pancreas", "Prostate", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Avinash Rajra",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Breast", "Head & Neck", "Colon", "Gynecologic", "Thoracic", "Surgical Oncology"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Surbhi Kudyar",
+    "hospital": "American Oncology Institute",
+    "city": "Jammu",
+    "phone": "+91 9513 43 6628",
+    "speciality": ["Breast", "Oncoplastic Surgery", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/qdUPmHWciWPffAHy6"
+  },
+  {
+    "name": "Dr. Shad Salim Akhtar",
+    "hospital": "Hakim Sanaullah Cancer Centre",
+    "city": "Jammu",
+    "phone": "01954 220 631",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Medical Oncology"],
+    "rating": 3.4,
+    "maps_url": "https://maps.app.goo.gl/LeyJBMRt5z3Uxt289"
+  },
+  {
+    "name": "Dr. Rajeev Saini",
+    "hospital": "Shri Mata Vaishno Devi Narayana Superspeciality Hospital",
+    "city": "Jammu",
+    "phone": "090708 88333",
+    "speciality": ["Lungs", "Gynecologic", "Blood", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/6zvqJtXKBRZvrPYU6"
+  },
+  {
+    "hospital": "Jammu City Oncology Centre, Talab Tillo",
+    "city": "Jammu",
+    "phone": "09419190696",
+    "speciality": ["General Oncology (solid tumors & chemotherapy)"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/nR1rmmZmDpLAkEE29"
+  },
+  {
+    "name": "Dr. Prasenjit Chatterjee",
+    "hospital": "Multiple Hospitals (e.g. CMRI)",
+    "city": "Kolkata",
+    "phone": "033 6907 0001",
+    "speciality": ["Blood", "Leukemia", "Lymphoma", "Medical Oncology"],
+    "rating": 3.7,
+    "maps_url": "https://maps.app.goo.gl/Qtat6bNwmoMLi6MB8"
+  },
+  {
+    "name": "Dr. (Prof.) Subir Gangopadhyay",
+    "hospital": "Manipal Hospital, Salt Lake City",
+    "city": "Kolkata",
+    "phone": "033 6907 0001",
+    "speciality": ["Blood", "Breast", "Gastrointestinal", "Medical Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/YVBH5yee4RnbydxG6"
+  },
+  {
+    "name": "Dr. Chanchal Goswami",
+    "hospital": "Manipal Hospital / AMRI",
+    "city": "Kolkata",
+    "phone": "088610 71844",
+    "speciality": ["Blood", "GI", "Gynecologic", "Breast", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/SS21Z7bZfx7AW6uV8"
+  },
+  {
+    "name": "Dr. Jayesh Kumar Jha",
+    "hospital": "Ruby Hospital / CNCI",
+    "city": "Kolkata",
+    "phone": "033 3301 1800",
+    "speciality": ["Head & Neck", "Breast", "Colon", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/yFU9ddzMyjxu2JfX6"
+  },
+  {
+    "name": "Dr. Sujoy Kumar Bala",
+    "hospital": "Ruby Hospital / Apollo Gleneagles",
+    "city": "Kolkata",
+    "phone": "91639 64444",
+    "speciality": ["Breast", "Head & Neck", "Colon", "Surgical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/TRKNoDLT7q8ssjiE7"
+  },
+  {
+    "name": "Dr. Suvadip Chakrabarti",
+    "hospital": "Apollo Gleneagles Cancer Institute",
+    "city": "Kolkata",
+    "phone": "+91 93301 79441",
+    "speciality": ["Breast", "Colon", "Esophagus", "GI", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/NSUzY8yjDT9bM4W96"
+  },
+  {
+    "name": "Dr. Shaikat Gupta",
+    "hospital": "Apollo Gleneagles Cancer Hospital",
+    "city": "Kolkata",
+    "phone": "99032 79988 , 98301 35904" ,
+    "speciality": ["Colon", "Prostate", "Head & Neck", "Surgical Oncology"],
+    "rating":  4.9,
+    "maps_url": "https://maps.app.goo.gl/NSUzY8yjDT9bM4W96"
+  },
+  {
+    "name": "Dr. Amit Dutt Dwary",
+    "hospital": "Apollo Gleneagles Cancer Hospital",
+    "city": "Kolkata",
+    "phone": "080 6297 0668",
+    "speciality": ["Breast", "Head & Neck", "Medical Oncology", "Pancreas"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/NSUzY8yjDT9bM4W96"
+  },
+  {
+    "name": "Dr. Animesh Saha",
+    "hospital": "Apollo Gleneagles / Cancer building",
+    "city": "Kolkata",
+    "phone": "087774 27312",
+    "speciality": ["Radiation Oncology", "Lungs", "Brain", "Skin"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/NSUzY8yjDT9bM4W96"
+  },
+  {
+    "name": "Dr. Sayan Paul",
+    "hospital": "Apollo Gleneagles Cancer Hospital",
+    "city": "Kolkata",
+    "phone": "099101 30552",
+    "speciality": ["Breast", "Uro-Oncology", "Lungs", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/NSUzY8yjDT9bM4W96"
+  },
+  {
+    "name": "Dr. Sreejith G. Nair",
+    "hospital": "Regional Cancer Centre (RCC), Govt Medical College Campus",
+    "city": "Thiruvananthapuram",
+    "phone": "+91 471 2522250",
+    "speciality": ["Blood", "Sarcoma", "Solid Tumors", "Bone", "Soft Tissue"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/YnHejmkcW9KwERrR7"
+  },
+  {
+    "name": "Dr. Anoop T. M.",
+    "hospital": "Regional Cancer Centre (RCC), Govt Medical College Campus",
+    "city": "Thiruvananthapuram",
+    "phone": "+91 471 2522543",
+    "speciality": ["Breast", "Blood", "Sarcoma", "Gastrointestinal", "Chest & Gastro Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/YnHejmkcW9KwERrR7"
+  },
+  {
+    "name": "Dr. Lakshmi Haridas",
+    "hospital": "Regional Cancer Centre (RCC), Govt Medical College Campus",
+    "city": "Thiruvananthapuram",
+    "phone": "+91 471 2522642",
+    "speciality": ["Cervix", "Uro-Oncology", "Blood", "Gynecological Oncology", "Sarcomas"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/YnHejmkcW9KwERrR7"
+  },
+  {
+    "name": "Dr. Sherin P. Mathew",
+    "hospital": "Regional Cancer Centre (RCC), Govt Medical College Campus",
+    "city": "Thiruvananthapuram",
+    "phone": "+91 471 2522653",
+    "speciality": ["Breast", "Brain", "Neuro-Oncology", "Gynecological Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/YnHejmkcW9KwERrR7"
+  },
+  {
+    "name": "Dr. George Abraham",
+    "hospital": "Regional Cancer Centre (RCC), Govt Medical College Campus",
+    "city": "Thiruvananthapuram",
+    "phone": "+91 471 2522660",
+    "speciality": ["Blood", "Bone Marrow Transplant", "Immunotherapy", "Hematologic Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/YnHejmkcW9KwERrR7"
+  },
+  {
+    "name": "Dr. Azhar Jan Battoo",
+    "hospital": "Paras Hospital, Munshi Bagh",
+    "city": "Srinagar",
+    "phone": "+91 8080808069 (Paras Hospital helpline)",
+    "speciality": ["Surgical Oncology", "Lungs", "Breast", "Colon", "Head & neck", "Skin", "Prostate"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/wgKMY9N4M1UsSViBA"
+  },
+  {
+    "name": "Dr. Sheikh Zahoor Ahmad",
+    "hospital": "Paras Hospital, Munshi Bagh",
+    "city": "Srinagar",
+    "phone": "+91 8080808069 (Paras Hospital helpline)",
+    "speciality": ["Surgical Oncology", "Cervix", "Breast", "Colon", "Prostate", "Gynecologic Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/wgKMY9N4M1UsSViBA"
+  },
+  {
+    "name": "Dr. Saquib Zaffar Banday",
+    "hospital": "Paras Hospital, Munshi Bagh",
+    "city": "Srinagar",
+    "phone": "+91 8080808069 (Paras Hospital helpline)",
+    "speciality": ["Medical Oncology", "Blood", "Breast", "Lungs", "Prostate", "Colon", "Brain"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/wgKMY9N4M1UsSViBA"
+  },
+  {
+    "name": "Dr. Qazi Sajjad Rasool",
+    "hospital": "Noora Hospital",
+    "city": "Srinagar",
+    "phone": "+91 (HexaHealth helpline via profile), or contact Noora Hospital",
+    "speciality": ["Medical Oncology", "Blood", "Colon", "Bladder", "Prostate"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/J81i2S5tGhHJvQnU8"
+  },
+  {
+    "name": "Dr. Qazi Mohammad Ashraf",
+    "hospital": "Kashmir Clinics, Balgarden Road",
+    "city": "Srinagar",
+    "phone": "+91 70066 94240",
+    "speciality": ["Medical Oncology", "Blood", "Solid Tumors"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/Ch1ivcYQz9rtqF6B9"
+  },
+  {
+    "name": "Dr. Manish Gupta",
+    "hospital": "Regional Cancer Centre, Indira Gandhi Medical College & Hospital",
+    "city": "Shimla",
+    "phone": "+91 94184 55673",
+    "speciality": ["Lungs", "Brain", "Skin", "Precision Radiation", "External Beam Therapy", "Radiation Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/cspzhRu27ni1ZEZS7"
+  },
+  {
+    "name": "Dr. Priyanka Thakur",
+    "hospital": "Regional Cancer Centre, IGMCH Shimla",
+    "city": "Shimla",
+    "phone": "not available",
+    "speciality": ["Breast", "Cervix", "Colon", "Esophagus", "Stomach", "Liver", "Gynecological Oncology", "Radiation Oncology"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/cspzhRu27ni1ZEZS7"
+  },
+  {
+    "name": "Dr. Mahul Sarkar",
+    "hospital": "Regional Cancer Centre, IGMCH Shimla",
+    "city": "Shimla",
+    "phone": "not available",
+    "speciality": ["Blood", "Pancreas", "Kidney", "Solid Tumors", "Medical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/cspzhRu27ni1ZEZS7"
+  },
+  {
+    "name": "Dr. Mezhuneituo Raleng",
+    "hospital": "Oasis Clinic",
+    "city": "Shillong",
+    "phone": "+91 97911 73039",
+    "speciality": ["Colon", "Breast", "Bladder", "Esophagus", "Head & neck", "Gastrointestinal Surgical Oncology", "Palliative Care"],
+    "rating": 4.5,
+    "maps_url": "https://maps.app.goo.gl/9Riud7bky3f6MBy3A"
+  },
+  {
+    "name": "Dr. Mebanshanbor Garod",
+    "hospital": "Bethany Hospital, Nongrim Hills",
+    "city": "Shillong",
+    "phone": "1800-889-6050 (Bethany Hospital OPD helpline)",
+    "speciality": ["Breast", "Colon", "Gynecologic Oncology", "Head & neck", "Sarcomas", "General Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/XN9Yfk21TojhzHYz8"
+  },
+  {
+    "name": "Dr. Chanmiki Sayoo",
+    "hospital": "Woodland Hospital, Malki",
+    "city": "Shillong",
+    "phone": "not available",
+    "speciality": ["Head & neck", "Surgical Oncology", "Breast"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/f4JiwfM6TTTvieD27"
+  },
+  {
+    "name": "Dr. Satish Sharma",
+    "hospital": "HCG Abdur Razzaque Ansari Cancer Hospital, Irba",
+    "city": "Ranchi",
+    "phone": "+91 62059 59932",
+    "speciality": ["Breast", "Blood", "Lungs", "Head & neck", "Prostate", "Colon", "Hematologic Oncology", "Medical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/Z9E5wcw8S7ET84v77"
+  },
+  {
+    "name": "Dr. Md Aftab Alam Ansari",
+    "hospital": "HCG Abdur Razzaque Ansari Cancer Hospital, Irba",
+    "city": "Ranchi",
+    "phone": "+91 74064 99999",
+    "speciality": ["Lungs", "Prostate", "Thoracic Oncology", "Radiation Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/Z9E5wcw8S7ET84v77"
+  },
+  {
+    "name": "Dr. Ganesh Agarwal",
+    "hospital": "HCG Abdur Razzaque Ansari Cancer Hospital, Irba",
+    "city": "Ranchi",
+    "phone": "+91 80699 23891",
+    "speciality": ["Breast", "Head & neck", "Surgical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/Z9E5wcw8S7ET84v77"
+  },
+  {
+    "name": "Dr. Amitesh Anand",
+    "hospital": "Ranchi Cancer Hospital & Research Centre (RCHRC), Kanke",
+    "city": "Ranchi",
+    "phone": "+91 85128 30995",
+    "speciality": ["Prostate", "Cervix", "Gynecologic Oncology", "Uro-Oncology", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/1JktZpGdjdfAnxJP6"
+  },
+  {
+    "name": "Dr. Rajanigandha Tudu",
+    "hospital": "Ranch Cancer Hospital & Research Centre, Kanke",
+    "city": "Ranchi",
+    "phone": "+91 85128 30995",
+    "speciality": ["Medical Oncology", "Radiation Oncology", "Breast", "Colon", "Blood"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/1JktZpGdjdfAnxJP6"
+  },
+  {
+    "name": "Dr. Gaurav Raghunath Suralkar",
+    "hospital": "RCHRC, Kanke, Ranchi",
+    "city": "Ranchi",
+    "phone": "+91 85128 30995",
+    "speciality": ["Surgical Oncology", "Gynecologic Oncology", "Breast", "Cervix", "Colon"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/1JktZpGdjdfAnxJP6"
+  },
+  {
+    "name": "Dr. Kumar Saurabh",
+    "hospital": "Jharkhand Cancer Centre (RIMS/Kanke)",
+    "city": "Ranchi",
+    "phone": "+91 74064 99999",
+    "speciality": ["Blood", "Medical Oncology", "Chemotherapy", "Hematologic Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/1JktZpGdjdfAnxJP6"
+  },
+  {
+    "name": "Dr. Amar Prem",
+    "hospital": "Jharkhand Cancer Centre (RIMS/Kanke)",
+    "city": "Ranchi",
+    "phone": "+91 92961 82803",
+    "speciality": ["Breast", "Colon", "Liver", "Pancreas", "Head & neck", "Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/1JktZpGdjdfAnxJP6"
+  },
+  {
+    "name": "Dr. Ajay Kumar",
+    "hospital": "Samford Super Specialty Hospital",
+    "city": "Ranchi",
+    "phone": "+91 63665 30173",
+    "speciality": ["Breast", "Head & neck", "Bone", "Thoracic Oncology", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/s12efFdREzrBEFM56"
+  },
+  {
+    "name": "Dr. Prabhat Kumar Raina",
+    "hospital": "RJSP Cancer Hospital, Gumla Road",
+    "city": "Ranchi",
+    "phone": "+91 93043 31241",
+    "speciality": ["Breast", "Colon", "Cervix", "Prostate", "Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/6MkPr3mDL4eaVoia7"
+  },
+  {
+    "name": "Dr. Vibhor Mahendru",
+    "hospital": "SM Cancer Centre, Indira Nagar",
+    "city": "Lucknow",
+    "phone": "+91 97948 11226",
+    "speciality": ["Breast", "Colon", "Stomach", "Bladder", "Head & Neck", "Thoracic Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/J3tD5tZSiZi1mSFJA"
+  },
+  {
+    "name": "Dr. Kamlesh Verma",
+    "hospital": "Cure Your Cancer Centre / Globe Healthcare",
+    "city": "Lucknow",
+    "phone": "099304 62874",
+    "speciality": ["Breast", "Colon", "Stomach", "Esophagus", "Head & Neck", "Surgical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/ZWqTAr94D7obsjpZA"
+  },
+  {
+    "name": "Dr. Harshit Srivastava",
+    "hospital": "Apollo Cancer Centre / OncoCare Clinic",
+    "city": "Lucknow",
+    "phone": "+91 81045 98623",
+    "speciality": ["Breast", "Head & Neck", "Esophagus", "Stomach", "Pancreas", "Sarcoma", "Gynecologic"],
+    "rating": 4.2,
+    "maps_url": "https://maps.app.goo.gl/HmiBS92xs62jJQiE7"
+  },
+  {
+    "name": "Dr. N. A. Siddiqui",
+    "hospital": "Nabeel Cancer Care Centre",
+    "city": "Lucknow",
+    "phone": "078607 36600",
+    "speciality": ["Blood", "Hematologic Oncology", "Leukemia", "Lymphoma"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/NwtKqDGnpvkTKisV8"
+  },
+  {
+    "name": "Dr. Ajeet Kumar Gandhi",
+    "hospital": "Dr. RML Institute of Medical Sciences",
+    "city": "Lucknow",
+    "phone": "0522 669 2000",
+    "speciality": ["Medical Oncology", "Solid Tumors", "Colon", "Lung", "General Oncology"],
+    "rating": 4.3,
+    "maps_url": "https://maps.app.goo.gl/Tx5sirZxbz5dfV7h7"
+  },
+  {
+    "name": "Dr. Sathish Kumar Anandan",
+    "hospital": "Apollo Medics Super Speciality Hospital",
+    "city": "Lucknow",
+    "phone": "097982 90066",
+    "speciality": ["Surgical Oncology", "Head & Neck", "Colon", "Thoracic Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/TDzRVivCo9rfDUUJ7"
+  },
+  {
+    "name": "Dr. Zeeshanuddin Ahmad",
+    "hospital": "Apollo Cancer Centre",
+    "city": "Lucknow",
+    "phone": "+91 91639 64444 , +91 99032 79988",
+    "speciality": ["Surgical Oncology", "Head & Neck", "Endocrine (Thyroid)"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/qF7RKcHKnE8d6RuY9"
+  },
+  {
+    "name": "Dr. Alok Gupta",
+    "hospital": "Medanta Cancer Centre",
+    "city": "Lucknow",
+    "phone": "+91-880-000-1068 ",
+    "speciality": ["Breast", "Stomach", "Lung", "Kidney", "Bladder", "Colon", "Cervix", "Blood"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/F48EUDdNLPKviwgUA"
+  },
+  {
+    "name": "Dr. Vivek Kumar Garg",
+    "hospital": "Vivek Garg Cancer Care Clinic, Gomti Nagar",
+    "city": "Lucknow",
+    "phone": "0522 233 9039",
+    "speciality": ["Medical Oncology", "Bone Marrow Transplant", "Blood cancers"],
+    "rating": 2.9,
+    "maps_url": "https://maps.app.goo.gl/jKw5gkSWsZt2gQs57"
+  },
+  {
+    "name": "Dr. Priyanka Chauhan",
+    "hospital": "Apollomedics Super Speciality Hospital, LDA Colony",
+    "city": "Lucknow",
+    "phone": "+91 80469 61837",
+    "speciality": ["Medical Oncology", "Radiation Therapy", "Blood", "Lung", "Brain Tumors"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/TDzRVivCo9rfDUUJ7"
+  },
+  {
+    "name": "Dr. Suresh H. Advani",
+    "hospital": "Jaslok Hospital & Research Centre / Apollo Hospital, Navi",
+    "city": "Mumbai",
+    "phone": "+91 22 6658 9000 (Jaslok appointment), +91 22 4050 5050 (Apollo Navi Mumbai)",
+    "speciality": ["Blood", "Breast", "Prostate", "Leukemia", "Medical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/NXuYhfW4Es4K5X41A"
+  },
+  {
+    "name": "Dr. Jeyhan Dhabhar",
+    "hospital": "Wockhardt Hospitals / Mumbai OncoCare Centre",
+    "city": "Mumbai",
+    "phone": "099304 33317",
+    "speciality": ["Blood", "General Oncology", "Gastrointestinal", "Medical Oncology"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/NQjs9YJ9BAyDXwM48"
+  },
+  {
+    "name": "Dr. Suhas Vilasrao Aagre",
+    "hospital": "Apollo Hospitals Navi Mumbai / Cancer One Clinic, Chembur",
+    "city": "Mumbai",
+    "phone": "080 6297 2766",
+    "speciality": ["Blood", "Gastrointestinal", "Breast", "Bone Marrow Transplant"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/bTDjb8D4SqvjioD8A"
+  },
+  {
+    "name": "Dr. Amit R. Gandhi",
+    "hospital": "Cancure Center, Mulund West",
+    "city": "Mumbai",
+    "phone": "081042 25500",
+    "speciality": ["Breast", "Colon", "Pancreas", "Medical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/i63xF4XPwCdbuZWg7"
+  },
+  {
+    "name": "Dr. Nikhilesh Borkar",
+    "hospital": "Sir H. N. Reliance Foundation Hospital, Girgaon",
+    "city": "Mumbai",
+    "phone": "022 3547 5757",
+    "speciality": ["Colon", "Head & Neck", "Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/sn24ZUVRJbGvC45N9"
+  },
+  {
+    "name": "Dr. Ninad Katdare",
+    "hospital": "HCG-ICS Khubchandani Cancer Centre, Dadar",
+    "city": "Mumbai",
+    "phone": "097691 72789",
+    "speciality": ["Colon", "Stomach", "Surgical Oncology"],
+    "rating": 4.7,
+    "maps_url": "https://maps.app.goo.gl/SqShnfLgpyPqBEJ28"
+  },
+  {
+    "name": "Dr. Abhinav Kuruvilla",
+    "hospital": "Tata Memorial Hospital, Parel",
+    "city": "Mumbai",
+    "phone": " (+91-22) 24177000, 24177300, 24161413,",
+    "speciality": ["Breast", "Gynecologic Oncology", "Medical Oncology"],
+    "rating": 4.2,
+    "maps_url": "https://maps.app.goo.gl/rpWoeMgMAvJCan2WA"
+  },
+  {
+    "name": "Dr. Mandar Nadkarni",
+    "hospital": "Kokilaben Dhirubhai Ambani Hospital, Andheri",
+    "city": "Mumbai",
+    "phone": "022 4269 6969",
+    "speciality": ["Breast", "Surgical Oncology"],
+    "rating": 4.9,
+    "maps_url": "https://maps.app.goo.gl/T5rayoLtRj9oq4ap8"
+  },
+  {
+    "name": "Dr. Vinay Deshmane",
+    "hospital": "Hinduja Hospital / Kokilaben Hospital",
+    "city": "Mumbai",
+    "phone": "022 2445 1515",
+    "speciality": ["Uro-Oncology", "Kidney", "Prostate", "Surgical Oncology"],
+    "rating": 4.8,
+    "maps_url": "https://maps.app.goo.gl/SgeSCS7i5Uk5qgTc8"
+  },
+  {
+    "name": "Dr. Ranjeet Bajpai",
+    "hospital": "Apollo Hospitals Navi",
+    "city": "Mumbai",
+    "phone": "080 6297 0466",
+    "speciality": ["Medical Oncology", "Blood", "Solid Tumors"],
+    "rating": 5.0,
+    "maps_url": "https://maps.app.goo.gl/kGWxAZYY7jkHQbCt8"
+  },
+  {
+    "name": "Dr. Rajiv Ranjan Prasad",
+    "hospital": "Medanta - The Medicity, (Cancer Care)",
+    "city": "Patna",
+    "phone": "+91 612-277 2222 (Medanta Patna switchboard)",
+    "speciality": ["Breast","Colon","Stomach","Liver","Gynaecologic","Prostate","Head & Neck","Brain","Esophagus","Uro‑genital"],
+    "rating": 4.4,
+    "maps_url": "https://maps.app.goo.gl/SL1BgCcYuppqkC6d8"
+  },
+  {
+    "name": "Dr. Amarendra Amar",
+    "hospital": "Medanta",
+    "city": "Patna",
+    "phone": "+91 612-277 2222",
+    "speciality": ["Blood","Breast","Lung","GI","Liver","Prostate","Medical Oncology","Targeted Therapy","Immunotherapy"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/mGjtctVNsjroKy1u6"
+  },
+  {
+    "name": "Dr. Sundeep Kumar",
+    "hospital": "Medanta",
+    "city": "Patna",
+    "phone": "+91 612-277 2222",
+    "speciality": ["Head & Neck","Colon","Stomach","Gynaecologic","GI","Robotic Surgery","Surgical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/mGjtctVNsjroKy1u6"
+  },
+  {
+    "name": "Dr. Amit Kumar",
+    "hospital": "Medanta",
+    "city": "Patna",
+    "phone": "+91 612-277 2222",
+    "speciality": ["Blood","Solid Tumors","Bone Marrow Transplant","Medical Oncology","Pediatric Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/mGjtctVNsjroKy1u6"
+  },
+  {
+    "name": "Dr. Santosh Kumar",
+    "hospital": "Medanta",
+    "city": "Patna",
+    "phone": "+91 612-277 2222",
+    "speciality": ["CAR-T Therapy","Blood","Bone Marrow Transplant","Solid Tumors","Medical Oncology"],
+    "rating": 4.6,
+    "maps_url": "https://maps.app.goo.gl/mGjtctVNsjroKy1u6"
+  }
+]

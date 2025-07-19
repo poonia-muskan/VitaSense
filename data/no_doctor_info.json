@@ -1,0 +1,23 @@
+{
+  "itanagar": {
+    "message": "As of now, there is no fully-equipped oncologist or dedicated cancer hospital available in the entire state of Arunachal Pradesh, including its capital, Itanagar. However, a State Cancer Institute is currently under development at Midpu, Doimukh in the Papum Pare district. This institute has been allocated a budget of rs.217 crore and is being established in collaboration with Dr. B. Borooah Cancer Institute (BBCI), Guwahati, and Tata Memorial Centre, Mumbai."
+  },
+  "kavaratti": {
+    "message": "There is currently no full-time oncologist or dedicated cancer care center in Kavaratti or elsewhere in Lakshadweep. While Indira Gandhi Hospital in Kavaratti offers basic medical services, it does not have an operational oncology department. Plans for establishing an oncology unit are underway, with chemotherapy drug procurement initiated in 2022. For now, patients requiring cancer treatment are referred to major hospitals in mainland India, such as Amrita Institute of Medical Sciences (Kochi) or Regional Cancer Centre (Trivandrum)."
+  },
+  "kohima": {
+    "message": "Nagaland has a severe gap in structured oncology infrastructure, especially for treatment of major cancers (breast, lung, cervical, etc.). While Putuonuo's clinic offers early detection services, full-scale oncology care remains unavailable locally."
+  },
+  "leh": {
+    "message": "Leh currently does not have any full-time oncologists or dedicated cancer hospitals. Only limited cancer services like chemotherapy and screening are available at Sonam Norboo Memorial Hospital. For full cancer treatment, patients are usually referred to larger centers like Delhi or Guwahati."
+  },
+  "panaji": {
+    "message": "Panaji currently offers limited cancer care services, with a medical oncology OPD operational at Goa Medical College (GMC), Bambolim since April 2023. A rs.310 crore Tertiary Cancer Care Centre is under construction at GMC, being developed in collaboration with Tata Memorial Centre, Mumbai. Until its completion (expected by mid-2026), Tata specialists are supporting GMC through weekly consultations and training. Full oncology services—including surgery and radiotherapy—will be available once the centre is commissioned, significantly improving cancer care access within Goa."
+  },
+  "port blair": {
+    "message": "Currently, there are no dedicated oncologists or full-fledged cancer treatment facilities available in Port Blair or elsewhere in the Andaman & Nicobar Islands. For specialized cancer diagnosis or treatment, patients typically need to travel to mainland cities such as Chennai or Kolkata, where comprehensive oncology centers are accessible."
+  },
+  "puducherry": {
+    "message": "Currently, Puducherry does not have any dedicated oncology super-specialists or full-fledged cancer hospitals listed in major verified databases. Patients in need of specialized cancer care are typically referred to advanced centers in Chennai or other nearby metro cities. However, general physicians and multispecialty hospitals in Puducherry may offer initial consultations or supportive care before referral."
+  }
+}
