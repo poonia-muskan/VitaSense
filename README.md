@@ -1,4 +1,4 @@
-🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
+<img width="1919" height="911" alt="Screenshot 2025-07-20 093026" src="https://github.com/user-attachments/assets/d3cc10d7-d062-47e5-a8c1-3bcd344c0d52" />🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
 
 🧬 Overview  
 The Cancer Risk Detection Web App is a user-friendly platform that allows individuals to assess their risk levels for various types of cancer based on symptoms. In addition to prediction, it serves as an educational hub—providing users with trusted YouTube videos, verified cancer facts, and doctor information across India to help spread awareness and guide users toward early diagnosis and support.
@@ -36,9 +36,13 @@ The Cancer Risk Detection Web App is a user-friendly platform that allows indivi
    
 ---
 
-📸 Screenshots  
-![image](<img width="1918" height="911" alt="Screenshot 2025-07-20 092800" src="https://github.com/user-attachments/assets/a7f119b4-ccb1-4e1e-a6a6-c307664b038b" />
-)  
+📸 Screenshots   
+<img width="1918" height="911" alt="Screenshot 2025-07-20 092800" src="https://github.com/user-attachments/assets/06418ac5-1428-4bd4-bc6c-ee8b16ab8d4d" />
+<img width="1919" height="912" alt="Screenshot 2025-07-20 092847" src="https://github.com/user-attachments/assets/0c44d399-e91e-4da9-b516-9c215811af82" />
+<img width="1919" height="908" alt="Screenshot 2025-07-20 092917" src="https://github.com/user-attachments/assets/a8262916-e04d-442f-8bb9-a658ad2aa191" />
+<img width="1919" height="912" alt="Screenshot 2025-07-20 093007" src="https://github.com/user-attachments/assets/89b24690-3069-473d-ae4c-8794af918d20" />
+<img width="1919" height="911" alt="Screenshot 2025-07-20 093026" src="https://github.com/user-attachments/assets/6c2cfb14-cf16-413e-bdcb-0b4fddd30c3a" />
+<img width="1919" height="916" alt="Screenshot 2025-07-20 093130" src="https://github.com/user-attachments/assets/59cb4eff-337c-4615-ae20-446b87843d72" />
 
 ---
 
