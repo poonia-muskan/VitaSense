@@ -1,11 +1,10 @@
-🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
-
-🧬 Overview  
+#🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
+###🧬 Overview  
 The Cancer Risk Detection Web App is a user-friendly platform that allows individuals to assess their risk levels for various types of cancer based on symptoms. In addition to prediction, it serves as an educational hub—providing users with trusted YouTube videos, verified cancer facts, and doctor information across India to help spread awareness and guide users toward early diagnosis and support.
 
 ---
 
-🎯 Features  
+###🎯 Features  
 🔍 Symptom-based Prediction
  - Select symptoms from a list for Breast, Lung, Liver, and Stomach cancers
  - Instantly view your estimated cancer risk percentage based on trained ML models
@@ -27,7 +26,7 @@ The Cancer Risk Detection Web App is a user-friendly platform that allows indivi
 
 ---
 
-💻 Tech Stack  
+###💻 Tech Stack  
  - Frontend: HTML (with inline CSS + JS)
  - Backend: Python (Flask Framework)
  - Templates: Jinja2
@@ -36,7 +35,7 @@ The Cancer Risk Detection Web App is a user-friendly platform that allows indivi
    
 ---
 
-📸 Screenshots   
+###📸 Screenshots   
 <img width="1918" height="911" alt="Screenshot 2025-07-20 092800" src="https://github.com/user-attachments/assets/06418ac5-1428-4bd4-bc6c-ee8b16ab8d4d" />
 <img width="1919" height="912" alt="Screenshot 2025-07-20 092847" src="https://github.com/user-attachments/assets/0c44d399-e91e-4da9-b516-9c215811af82" />
 <img width="1919" height="908" alt="Screenshot 2025-07-20 092917" src="https://github.com/user-attachments/assets/a8262916-e04d-442f-8bb9-a658ad2aa191" />
@@ -46,20 +45,20 @@ The Cancer Risk Detection Web App is a user-friendly platform that allows indivi
 
 ---
 
-🚀 Live Demo
+###🚀 Live Demo
 - Link 1 -> 🔗 [VitaSense Web App](https://vitasense.onrender.com/)
 - Link 2 -> 🔗 [VitaSense Web App](https://vitasense-nxty.onrender.com)
 
 ---
 
-❤️ Acknowledgements
+###❤️ Acknowledgements
  - Inspired by the real need for early cancer detection and awareness
  - ML models trained with publicly available datasets
  - Doctor data compiled for major Indian cities
 
 ---
 
-📂 Run Locally  
+###📂 Run Locally  
 
 ```bash
 git clone https://github.com/poonia-muskan/VitaSense.git
