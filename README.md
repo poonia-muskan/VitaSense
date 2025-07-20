@@ -1,4 +1,4 @@
-<img width="1919" height="911" alt="Screenshot 2025-07-20 093026" src="https://github.com/user-attachments/assets/d3cc10d7-d062-47e5-a8c1-3bcd344c0d52" />🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
+🌟 Project: VitaSense - Cancer Risk Prediction & Awareness Platform  
 
 🧬 Overview  
 The Cancer Risk Detection Web App is a user-friendly platform that allows individuals to assess their risk levels for various types of cancer based on symptoms. In addition to prediction, it serves as an educational hub—providing users with trusted YouTube videos, verified cancer facts, and doctor information across India to help spread awareness and guide users toward early diagnosis and support.
