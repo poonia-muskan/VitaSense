@@ -37,7 +37,8 @@ The Cancer Risk Detection Web App is a user-friendly platform that allows indivi
 ---
 
 📸 Screenshots  
-![image]("D:\Screenshots\Screenshot 2025-07-20 092800.png")  
+![image](<img width="1918" height="911" alt="Screenshot 2025-07-20 092800" src="https://github.com/user-attachments/assets/a7f119b4-ccb1-4e1e-a6a6-c307664b038b" />
+)  
 
 ---
 
